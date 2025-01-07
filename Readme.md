@@ -1,7 +1,5 @@
 ### 👨‍💻 About Me: 
-Frontend Developer with 5+ years of successful software delivery experience. Expert in JavaScript, React, and TypeScript. Interested in Web Performance, Accessibility, Server-Side Rendering, and UX. Delivered over 20+ frontend features on our main product & optimized the development workflow, significantly improving build speed and efficiency.
-
-🛠️ My career path blends creating scalable, maintainable frontend architecture and a passion for clean code, testing, and documentation. I've worked on performance-driven solutions leveraging modern frameworks and cloud technologies.
+Frontend Developer with 5+ years of successful software delivery experience. Expert in JavaScript, React, and TypeScript. Interested in Web Performance, Accessibility, Server-Side Rendering, and UX. Delivered hundreds of frontend features on our main product & optimized the development workflow, significantly improving build speed and efficiency.
 
 🚀 My motto: "Build better experiences, one feature at a time."
 
