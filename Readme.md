@@ -5,7 +5,7 @@ Frontend Developer with 5+ years of successful software delivery experience. Exp
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: React, Redux, Next.js, Redux, Node.js, Git, Headless CMS (Prismic, Wordpress), Webpack, Lighthouse, HTML5, CSS3, Jest, REST APIs, Styled-components, ESLint, Prettier, npm, React Testing Library
+🔧 Technologies & Tools: React, Redux, Next.js, Node.js, Git, Headless CMS (Prismic, WordPress), HTML5, CSS3, Styled-Components, REST APIs, Webpack, npm, ESLint, Prettier, Jest, React Testing Library, Lighthouse
 
 ☁️ Cloud: AWS(S3, EC2), Docker, GitHub, GitHub Actions
 
