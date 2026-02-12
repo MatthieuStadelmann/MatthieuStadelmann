@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me: 
-Frontend Developer with 5+ years of experience in React, JavaScript, and TypeScript. Strong focus on Performance, Accessibility and UX. Proven track record of delivering dozens of production ready frontend features.
+Frontend Developer with 8 years of experience in React, JavaScript, and TypeScript. Strong focus on Performance, Accessibility and UX. Proven track record of delivering dozens of production ready frontend features.
 
 🚀 My motto: "Build better experiences, one feature at a time."
 
