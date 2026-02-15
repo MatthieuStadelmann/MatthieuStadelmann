@@ -1,4 +1,4 @@
-Full-Stack Developer with 8+ years of experience in JavaScript, TypeScript, React, and Node.js. Proven track record of delivering production-ready frontend features, with growing expertise across the full stack. Passionate about Web Performance, UX, and building scalable web applications.
+Full-Stack Developer with 7+ years of experience in JavaScript, TypeScript, React, and Node.js. Proven track record of delivering production-ready frontend features, with growing expertise across the full stack. Passionate about Web Performance, UX, and building scalable web applications.
 
 Programming Languages: JavaScript, TypeScript
 
