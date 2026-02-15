@@ -1,14 +1,16 @@
 ### 👨‍💻 About Me: 
-Frontend Developer with 8 years of experience in React, JavaScript, and TypeScript. Strong focus on Performance, Accessibility and UX. Proven track record of delivering dozens of production ready frontend features.
+Full-Stack Developer with 8+ years of experience in JavaScript, TypeScript, React, and Node.js. Proven track record of delivering production-ready frontend features, with growing expertise across the full stack. Passionate about Web Performance, UX, and building scalable web applications.
 
-🚀 My motto: "Build better experiences, one feature at a time."
+Programming Languages: JavaScript, TypeScript
 
-💻 Programming Languages: JavaScript, TypeScript
+Frontend: React, Redux, Next.js, HTML5, CSS3, Styled-Components, Webpack, Jest, React Testing Library
 
-🔧 Technologies & Tools: React, Redux, Next.js, Node.js, Git, Headless CMS (Prismic, WordPress), HTML5, CSS3, Styled-Components, REST APIs, Webpack, npm, ESLint, Prettier, Jest, React Testing Library, Lighthouse
+Backend & APIs: Node.js, REST APIs, Headless CMS (Prismic, WordPress)
 
-☁️ Cloud: AWS(S3, EC2), Docker, GitHub, GitHub Actions
+Cloud & DevOps: AWS (S3, EC2), Docker, GitHub Actions, CI/CD
 
-📊 Methodologies: SCRUM, Agile
+Tools: Git, npm, ESLint, Prettier, Lighthouse
 
-🌐 Interests: Web Performance, Accessibility, Server-Side Rendering, Frontend Architecture
+Methodologies: Agile, SCRUM
+
+Interests: Web Performance, Accessibility, Server-Side Rendering, System Architecture
