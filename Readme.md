@@ -1,15 +1,8 @@
-Full-Stack Developer with 7+ years of experience in JavaScript, TypeScript, React, and Node.js. Proven track record of delivering production-ready frontend features, with growing expertise across the full stack. Passionate about Web Performance, UX, and building scalable web applications.
+Software Developer with 8+ years of experience in TypeScript, React, Node.js, and AWS. Currently building high-traffic React applications in the travel industry at HolidayPirates. Passionate about Web Performance, UX Design, System Architecture, and AI-Assisted Development.
 
-Programming Languages: JavaScript, TypeScript
-
-Frontend: React, Redux, Next.js, HTML5, CSS3, Styled-Components, Webpack, Jest, React Testing Library
-
-Backend & APIs: Node.js, REST APIs, Headless CMS (Prismic, WordPress)
-
-Cloud & DevOps: AWS (S3, EC2), Docker, GitHub Actions, CI/CD
-
-Tools: Git, npm, ESLint, Prettier, Lighthouse
-
+Languages: JavaScript, TypeScript
+Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS
+Backend & APIs: Node.js, REST APIs, Headless CMS (Contentful, WordPress)
+Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD
 Methodologies: Agile, SCRUM
-
-Interests: Web Performance, Accessibility, Server-Side Rendering, System Architecture
+Interests: Accessibility, AI-Assisted Development, System Architecture, UX Design, Web Performance
