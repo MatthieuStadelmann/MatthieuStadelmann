@@ -1,13 +1,17 @@
-Software Developer with 8+ years of experience in TypeScript, React, Node.js, and AWS. Currently building high-traffic React applications in the travel industry at HolidayPirates. Passionate about Web Performance, UX Design, System Architecture, and AI-Assisted Development.
+Senior Frontend Developer with 8+ years of experience building high-traffic React applications serving millions of monthly users, using TypeScript, Node.js, GraphQL, and AWS.
 
-Languages: JavaScript, TypeScript
+Currently at HolidayPirates Group, driving frontend architecture decisions, engineering standards, and AI-assisted development workflows across the team. Previously sole frontend developer at Association Petzi, delivering 30+ features end-to-end for a ticketing platform processing 100,000+ tickets annually.
 
-Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS
+Core expertise: Web Performance, Scalable Component Architecture, AI-Assisted Development.
 
-Backend & APIs: Node.js, REST APIs, Headless CMS (Contentful, WordPress)
+Frontend: React, TypeScript, JavaScript, Redux, Zustand, Tailwind CSS, SCSS, HTMX, Vite, Webpack
+
+Backend & APIs: Node.js, Django, GraphQL, Zod, REST APIs
 
 Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD
 
-Methodologies: Agile, SCRUM
+CMS: Contentful, WordPress
 
-Interests: Accessibility, AI-Assisted Development, System Architecture, UX Design, Web Performance
+Testing: React Testing Library, Vitest
+
+Languages: French (native), English (professional), German (conversational)
